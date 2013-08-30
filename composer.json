@@ -1,6 +1,6 @@
 {
 	"name": "christopherdarling/silverstripe-betterrequirementsversioning",
-	"type": "silverstripe-betterrequirementsversioning",
+	"type": "silverstripe-module",
 	"description": "Replaces the querystring ?m=timestamp versioning to include the filestamp before the file extension for better caching",
 	"homepage": "http://www.christopherdarling.co.uk",
 	"license": "MIT",
