@@ -1,0 +1,19 @@
+{
+	"name": "christopherdarling/silverstripe-betterrequirementsversioning",
+	"type": "silverstripe-betterrequirementsversioning",
+	"description": "Replaces the querystring ?m=timestamp versioning to include the filestamp before the file extension for better caching",
+	"homepage": "http://www.christopherdarling.co.uk",
+	"license": "MIT",
+	"keywords": ["silverstripe", "framework", "requirements", "revving"],
+	"authors": [
+		{
+			"name": "Christopher Darling",
+			"homepage": "http://www.christopherdarling.co.uk"
+		}
+	],
+	"require": {
+		"php": ">=5.3.2",
+        "silverstripe/framework": "~3.1",
+        "silverstripe/cms": "~3.1"
+    }
+}
