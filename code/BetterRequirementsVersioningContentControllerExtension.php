@@ -1,8 +1,9 @@
 <?php
-class BetterRequirementsVersioningContentControllerExtension extends Extension {
+class BetterRequirementsVersioningContentControllerExtension extends Extension
+{
 
-	function onBeforeInit() {
-		Requirements::set_backend(new BetterRequirementsVersioning_Backend());
-	}
-
+    public function onBeforeInit()
+    {
+        Requirements::set_backend(new BetterRequirementsVersioning_Backend());
+    }
 }
