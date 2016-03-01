@@ -1,9 +1,5 @@
-[![Build Status](https://secure.travis-ci.org/Respect/Validation.png)](http://travis-ci.org/Respect/Validation)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Respect/Validation/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Respect/Validation/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/Respect/Validation/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Respect/Validation/?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/respect/validation/v/stable.png)](https://packagist.org/packages/respect/validation)
-[![Total Downloads](https://poser.pugx.org/respect/validation/downloads.png)](https://packagist.org/packages/respect/validation)
-[![License](https://poser.pugx.org/respect/validation/license.png)](https://packagist.org/packages/respect/validation)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/christopherdarling/silverstripe-betterrequirementsversioning/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/christopherdarling/silverstripe-betterrequirementsversioning/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/christopherdarling/silverstripe-betterrequirementsversioning/badges/build.png?b=master)](https://scrutinizer-ci.com/g/christopherdarling/silverstripe-betterrequirementsversioning/build-status/master)
 
 silverstripe-betterrequirementsversioning
 =========================================
